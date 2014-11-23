@@ -1,0 +1,3 @@
+FILE(REMOVE_RECURSE
+  "../lib/libCV_SHORT_PROJECT.a"
+)

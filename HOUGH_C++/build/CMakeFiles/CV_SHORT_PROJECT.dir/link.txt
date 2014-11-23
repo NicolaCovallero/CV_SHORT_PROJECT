@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../lib/libCV_SHORT_PROJECT.a  CMakeFiles/CV_SHORT_PROJECT.dir/src/lines.cpp.o CMakeFiles/CV_SHORT_PROJECT.dir/src/histogram.cpp.o CMakeFiles/CV_SHORT_PROJECT.dir/src/main.cpp.o
+/usr/bin/ranlib ../lib/libCV_SHORT_PROJECT.a

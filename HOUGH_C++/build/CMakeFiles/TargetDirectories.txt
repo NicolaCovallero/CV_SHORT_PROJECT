@@ -1,0 +1,2 @@
+/home/nicola/Documents/CV_SHORT_PROJECT/build/CMakeFiles/CV_SHORT_PROJECT.dir
+/home/nicola/Documents/CV_SHORT_PROJECT/build/CMakeFiles/hough.dir
